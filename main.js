@@ -79,7 +79,7 @@ Fg.on('group-participants-update', async (anu) => {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `Hola @${num.split('@')[0]}\nBienvenido/a al Grupo *${mdata.subject}*
+				teks = `Hola @${num.split('@')[0]}\nHola soy Guillermo, un bot esoero ayudarte *${mdata.subject}*
 
 ▢ *Pide las reglas del grupo* para evitar ser baneado
 
